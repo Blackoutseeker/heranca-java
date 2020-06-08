@@ -1,0 +1,1 @@
+Uma classe abstrata serve como referência para outras (subclasses), podendo possuir ou não métodos abstratos, e não realiza instâncias.
