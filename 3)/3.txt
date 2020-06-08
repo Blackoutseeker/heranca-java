@@ -1,0 +1,1 @@
+"extends" é uma palavra reservada para informar à subclasse de que ela vai herdar os mesmos atributos e métodos da classe chamada.
