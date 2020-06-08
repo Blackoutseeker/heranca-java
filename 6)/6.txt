@@ -1,0 +1,1 @@
+Generalização consiste em percorrer a árvore de herança de baixo para cima.
