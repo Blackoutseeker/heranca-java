@@ -1,0 +1,1 @@
+Especialização consiste em percorrer a árvore de herança de cima para baixo.
