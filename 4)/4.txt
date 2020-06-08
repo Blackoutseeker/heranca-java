@@ -1,0 +1,1 @@
+Uma árvore de herança, por regra, sempre deve possuir uma super classe e uma subclasse. A raiz é a super classe, as folhas são as subclasses que não possuem outras subclasses, as descendentes são as avós, e as ancestrais são dos netos para baixo.
