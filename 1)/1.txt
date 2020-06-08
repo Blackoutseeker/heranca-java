@@ -1,0 +1,1 @@
+A herança consiste em gerar novas classes (subclasses) a partir de outras já criadas, onde possuem os mesmos atributos e métodos das classes derivadas.
